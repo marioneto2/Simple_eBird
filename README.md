@@ -1,9 +1,3 @@
-Determining workspace structure
-
-Deciding which workspace information to collect
-
-Gathering workspace info
-
 # Bird-Watching Application
 
 This application is a simple bird-watching tool that fetches and displays bird sightings based on user-defined geographical parameters. It uses the eBird API to fetch recent bird sightings and displays them on a map.
